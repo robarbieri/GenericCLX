@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ROOT>
+  <DEFAULT>
+			<PROJECTNAME VALUE="DWWeb" />
+			<MODULE VALUE="Web" />
+			<SERVER VALUE="RODRIGO" />
+			<DB VALUE="DW" />
+			<USER VALUE="" />
+			<PASSWORD VALUE="" />
+			<!--<WEBSERVER VALUE="localhost:49497" />-->
+			<!--<WEBSERVER VALUE="BARBIERI" />-->
+			<WEBSERVER VALUE="BARBIERI" />
+			<WEBSERVERIP VALUE="" />
+			<WEBSERVERPORT VALUE="" />
+			<REPORTSERVER VALUE="BARBIERI" />
+			<REPORTSERVERIP VALUE="" />
+			<REPORTSERVERPORT VALUE="" />
+			<FILELOCATION VALUE="C:\\inetpub\\wwwroot\\GenericCLX\\" />
+			<FULLURLLOCATION VALUE="http://localhost/GenericCLX/" />
+  	</DEFAULT>
+</ROOT>
